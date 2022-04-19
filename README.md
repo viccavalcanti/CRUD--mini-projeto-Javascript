@@ -11,7 +11,7 @@
 
 
 #### Recursos e 🛠️ Tecnologias
-- Estrutura das Páginas de Cadastro de Cliente;
+- Estrutura da Página de Cadastro de Cliente;
 - Salvar Cadastros;
 - Excluir Cadastros;
  -Editar Cadastros;
